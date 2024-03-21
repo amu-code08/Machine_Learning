@@ -1,3 +1,3 @@
-# machine_learning
+# NLP
 
-This is a respository for programs related to machine learning. Such as Kaggle and school work. 
+This is a school work project for NLP.
